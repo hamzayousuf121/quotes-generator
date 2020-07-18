@@ -10,3 +10,4 @@ An app that teaches the integration of an asynchronous fetch request through a P
 - Show async fetch request and CORS error, fixing with Proxy API
 - Populate UI with quote from API, Twitter integration
 - Get new quotes, dynamically show/hide loader
+live url https://hamzayousuf121.github.io/quotes-generator/
